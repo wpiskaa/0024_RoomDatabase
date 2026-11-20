@@ -14,5 +14,17 @@
 # Hasil UI Activity Lanjutan (Detail, Update & Delete)
 
 ### 1. Update Data
+Before : 
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/42437812-03eb-4bb6-81a1-c8fba91d04d3" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d397846a-fc05-4264-847c-46d0697706cf" />
+
+After :
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9643617d-fb75-49fa-8a2b-782706384de3" />
 
 ### 2. Delete Data
+Before :
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/698872e0-70f0-488a-a385-542c25ecb4ab" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/67e39afa-7a2d-48b4-afef-1c10994a924b" />
+
+After :
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c8b2278e-2766-4cce-bb65-c59abda782ea" />
