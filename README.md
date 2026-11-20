@@ -9,3 +9,10 @@
 ### 2. Halaman Entry
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/cced2387-f55e-46ae-9ae7-6a4aa08ff150" />
 <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/aa10fe3e-9603-42c9-b3b9-84fb435d897e" />
+
+
+# Hasil UI Activity Lanjutan (Detail, Update & Delete)
+
+### 1. Update Data
+
+### 2. Delete Data
